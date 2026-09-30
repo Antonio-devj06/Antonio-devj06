@@ -1,101 +1,205 @@
-<h1 align="center">
-⚡ Antonio Andriolli ⚡
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • Data Analyst
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F54,30:003B99,70:2563EB,100:60A5FA&text=Antonio%20Andriolli&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
+
+<h1 align="center">
+🚀 Full Stack Developer & Future Data Analyst
+</h1>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analyst;ADS+Student+at+UPF;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Solutions+Through+Technology;ADS+Student+at+UPF;React+%7C+Node.js+%7C+Python;Always+Learning+Something+New;Future+Data+Analyst"/>
 
 </p>
 
 ---
 
-# 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (UPF)
+```yaml
+name: Antonio Andriolli
 
-🚀 Em busca da primeira oportunidade profissional na área de tecnologia
+education:
+  - ADS (Análise e Desenvolvimento de Sistemas)
+  - Universidade de Passo Fundo
 
-💻 Desenvolvedor Full Stack em formação
+focus:
+  - Full Stack Development
+  - Data Analytics
+  - Cloud Computing
 
-📊 Interessado em Dados e Inteligência de Negócios
+currently_learning:
+  - React
+  - TypeScript
+  - Docker
+  - Node.js
+  - Python
 
-⚡ Apaixonado por resolver problemas através da tecnologia
+goal:
+  - First opportunity in technology
+```
 
 ---
 
-# 🚀 Tecnologias
+# 🌎 Connect With Me
 
 <p align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Analytics
+
+<div align="center">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&row=1&column=7&no-frame=true"/>
+
+</div>
+
+---
+
+# 🚀 Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,postgres,docker,git,github,vscode"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
+<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=react,ts,docker,nodejs,python"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Atualmente
+# 🚀 Featured Projects
 
-- 📚 Estudando React e TypeScript
-- 🐳 Aprendendo Docker
-- ⚙️ Construindo APIs REST
-- 📊 Explorando Data Analytics
-- 🌐 Criando um Portfólio 3D
+### 🏢 Portal de Recrutamento
 
----
+Sistema completo para gestão de vagas, RH e candidatos.
 
-# ⭐ Projetos em Destaque
+**Stack**
 
-## 🚀 Portal de Recrutamento
-
-Laravel + React + PostgreSQL + Docker
-
-Sistema completo de gestão de vagas e candidatos.
+- React
+- TypeScript
+- Laravel
+- PostgreSQL
+- Docker
 
 ---
 
-## ✈️ API de Viagens
+### ✈️ API de Viagens
 
-Node.js + Express + TypeScript
+CRUD RESTful desenvolvido com Node.js e TypeScript.
 
-CRUD RESTful para gerenciamento de viagens.
+**Stack**
 
----
-
-## 💰 Prestação de Contas
-
-React + TypeScript
-
-Sistema para controle financeiro corporativo.
+- Node.js
+- Express
+- TypeScript
 
 ---
 
-# 🎯 Objetivo
+### 💰 Prestação de Contas
 
-Busco oportunidades para atuar com desenvolvimento de software ou análise de dados, contribuindo para projetos reais enquanto evoluo tecnicamente e profissionalmente.
+Aplicação web para gerenciamento financeiro.
+
+**Stack**
+
+- React
+- TypeScript
 
 ---
 
-# 📫 Contato
+### 🌌 Portfolio 3D
 
-LinkedIn: SEU_LINKEDIN
+Portfólio moderno desenvolvido com foco em experiência visual.
 
-Email: SEU_EMAIL
+---
+
+# 🎯 Goals 2026
+
+- [ ] Conquistar primeira vaga em tecnologia
+- [ ] Aprimorar React
+- [ ] Aprender Next.js
+- [ ] Aprender Cloud
+- [ ] Evoluir em Data Analytics
+- [ ] Contribuir em Open Source
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+
+<img
+alt="snake"
+src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+---
+
+<div align="center">
+
+### ⚡ "Transformando problemas em soluções através da tecnologia"
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:001F54&height=120&section=footer"/>
