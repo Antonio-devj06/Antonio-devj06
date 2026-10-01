@@ -183,12 +183,10 @@ Portfólio moderno desenvolvido com foco em experiência visual.
 # 🐍 Contribution Snake
 
 <picture>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-</div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-devj06/Antonio-devj06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antonio-devj06/Antonio-devj06/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Antonio-devj06/Antonio-devj06/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
