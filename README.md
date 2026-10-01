@@ -64,10 +64,10 @@ goal:
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=Antonio-devj06&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-devj06&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,7 +77,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Antonio-devj06&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,7 +88,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&
 <div align="center">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark"/>
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antonio-devj06&theme=github_dark"/>
 
 </div>
 
@@ -98,7 +98,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Antonio-devj06&theme=algolia&row=1&column=7&no-frame=true"/>
 
 </div>
 
